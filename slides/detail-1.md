@@ -1,0 +1,22 @@
+##  Detailed steps - Create New Node Project 
+Create directory.  
+`$ mkdir gitbooktest`  
+`$ cd gitbooktest`  
+`$ npm init`  
+
+Run `npm init` to generate `package.json` file.
+`$ npm init`
+<pre>
+This utility will walk you through creating a package.json 
+file.
+It only covers the most common items, and tries to guess sane 
+defaults.
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg> --save` afterwards to install a package 
+and save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+</pre>
